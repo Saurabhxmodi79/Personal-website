@@ -1,0 +1,205 @@
+body{
+  margin: 0;
+  font-family: 'Montserrat';
+  font-weight:bold;
+
+}
+.top{
+  padding-top: 50px;
+      background-color: #71C9CE;
+  position: relative;
+  text-align: center;
+}
+
+.cloud{
+position: absolute;
+right:300px;
+top:30px;
+}
+.cloud2{
+position: absolute;
+left: 300px;
+}
+.mountain{
+height: 405px;
+width: auto;
+}
+
+
+h1{
+
+}
+.head{
+  font-family: 'Dancing Script';
+  color: #40514E;
+  font-size: 562.5%;
+  margin-bottom: 0;
+}
+
+.bo{
+  font-size: 2rem;
+  font-family: 'PPlayfair Display';
+  color: #40514E;
+  margin-top: 5px;
+  font-weight: normal;
+}
+
+.middle-container{
+  text-align: left;
+  background-color: #E3FDFD;
+  padding-bottom: 6%;
+}
+
+.pfp{
+  margin-top: 5%;
+  height: auto;
+  width: 20%;
+  margin-bottom: 2%;
+
+}
+
+.code{
+  width: 25%;
+  height: auto;
+  float: left;
+  margin-right: 2%;
+  position: relative;
+  top: 30px;
+  margin-right:50px;
+
+}
+
+.guitar{
+  width: 25%;
+  height: auto;
+  float: right;
+  position: relative;
+  top: 20px;
+  margin-left: 15px;
+}
+
+.skills{
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+  font-size: 1.5rem;
+
+
+}
+.lower-hr{
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+
+hr{
+     border-style: dotted none none;
+     border-color: grey;
+     border-width: 7px;
+     width: 5%;
+
+}
+.skill-rowa{
+  margin-top: 8%;
+}
+
+h3{
+  color: #3FC1C9;
+  font-family: 'Merriweather';
+
+}
+.profile{
+  text-align: center;
+}
+
+.skills-title{
+  text-align: center;
+  font-size: 4rem;
+  font-family: 'Amatic SC';
+  font-weight: bold;
+  color: #40514E;
+  margin: 0;
+}
+
+h2{
+  color: #3FC1C9;
+  font-size: 2rem;
+  font-family: 'Merriweather';
+}
+
+.profile{
+  font-size:1.5rem;
+}
+
+.desc{
+  margin-top: 4%;
+  width: 40%;
+  margin-left: 30%;
+  font-size: 1.3rem;
+}
+
+.upper-hr{
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+
+.contact-me{
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4,  #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.skill-row{
+  margin-top: 8%;
+}
+
+.lower-p{
+  font-size: 1.3rem;
+  margin-bottom: 5%;
+}
+
+.bottom-container{
+  padding-top: 3%;
+  padding-bottom: 2.5%;
+  background-color: #66BFBF;
+  text-align: center;
+}
+
+.footer-link{
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  font-size: 1.25rem;
+  color: #11999E;
+  font-weight: bold;
+}
+
+.copyrights{
+  margin-top: 3%;
+  font-size: 1.25rem;
+  color: white;
+}
